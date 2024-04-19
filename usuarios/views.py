@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
+from django.contrib.auth.models import User
 
 
 def cadastro(request):
@@ -15,9 +16,14 @@ def cadastro(request):
             print('Erro 2')
             return redirect('/usuarios/cadastro')
         
-        if senha < 6:
+        elif len(senha) < 6:
             print('Erro 3')
             return redirect('/usuarios/cadastro')
 
-        return HttpResponse(f"{username} - {email} - {senha} - {confirmar_senha}")
+        User.objects.create_user(
+            username=username,
+            email=email,
+            password=senha
+        )
 
+        return HttpResponse(f"Usuario criado com sucesso.")
