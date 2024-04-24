@@ -53,3 +53,8 @@ def login_view(request):
         
         messages.add_message(request, constants.ERROR, "Usuário ou senha incorretos")
         return redirect('/usuarios/login')
+    
+
+def sair(request):
+    auth.logout(request)
+    return redirect('usuarios/login')
