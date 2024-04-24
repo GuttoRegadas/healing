@@ -15,6 +15,14 @@ def cadastro(request):
         senha = request.POST.get('senha')
         confirmar_senha = request.POST.get('confirmar_senha')
 
+        campos = username,email,senha,confirmar_senha
+
+        print(type(campos))
+        for c in campos:
+            if not c:
+                messages.add_message(request, constants.ERROR, "Preencha todos os campos!")
+                return redirect('/usuarios/cadastro')
+
         if senha != confirmar_senha:
             messages.add_message(request, constants.ERROR, "Erro ao confirmar senha, senhas diferentes!")
             return redirect('/usuarios/cadastro')
@@ -49,11 +57,13 @@ def login_view(request):
 
         if user:
             auth.login(request, user)
-            return redirect('/pacientes/home')
-        
+            return redirect('/pacientes/home/')
+        if not user:
+            messages.add_message(request, constants.ERROR, "Preencha todos os campos!")
+            return redirect('/usuarios/login')
         messages.add_message(request, constants.ERROR, "Usuário ou senha incorretos")
+        print(user)
         return redirect('/usuarios/login')
-    
 
 def sair(request):
     auth.logout(request)
