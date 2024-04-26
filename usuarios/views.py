@@ -58,9 +58,7 @@ def login_view(request):
         if user:
             auth.login(request, user)
             return redirect('/pacientes/home/')
-        if not user:
-            messages.add_message(request, constants.ERROR, "Preencha todos os campos!")
-            return redirect('/usuarios/login')
+        
         messages.add_message(request, constants.ERROR, "Usuário ou senha incorretos")
         print(user)
         return redirect('/usuarios/login')
