@@ -53,7 +53,7 @@ def login_view(request):
         username = request.POST.get('username')
         senha = request.POST.get('senha')
     
-        user = auth.authenticate(request, username=username, senha=senha)
+        user = auth.authenticate(request, username=username, password=senha)
 
         if user:
             auth.login(request, user)
@@ -62,6 +62,7 @@ def login_view(request):
         messages.add_message(request, constants.ERROR, "Usuário ou senha incorretos")
         print(user)
         return redirect('/usuarios/login')
+
 
 def sair(request):
     auth.logout(request)

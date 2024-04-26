@@ -52,3 +52,12 @@ def cadastro_medico(request):
 
         messages.add_message(request, constants.SUCCESS, 'Cadastro médigo realizado com sucesso!')
         return redirect('/medicos/abrir_horario')
+    
+def abrir_horario(request):
+
+    if not is_medico(request.user):
+        messages.add_message(request, constants.WARNING, 'Somente Médicos podem acessar essa página!')
+        return redirect('/usuarios/sair')
+    
+    if request.mothod == "GET":
+        return render(request, 'abrir_horario.html')
