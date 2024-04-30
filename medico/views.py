@@ -13,7 +13,7 @@ def cadastro_medico(request):
         return redirect('/medicos/abriri_horario')
     
     if request.method == "GET":
-        especialidades = Especialidades.objects.all
+        especialidades = Especialidades.objects.all()
         return render(request, 'cadastro_medico.html', {'especialidades': especialidades})
     elif request.method == "POST":
         crm = request.POST.get('crm')
@@ -37,9 +37,9 @@ def cadastro_medico(request):
             cep=cep,
             rua=rua,
             bairro=bairro,
-            numero=bairro,
+            numero=numero,
             rg=rg,
-            cedula_indetidade_medica=cim,
+            cedula_indentidade_medica=cim,
             foto=foto,
             especialidade_id=especialidade,
             descricao=descricao,
@@ -52,6 +52,8 @@ def cadastro_medico(request):
 
         messages.add_message(request, constants.SUCCESS, 'Cadastro médigo realizado com sucesso!')
         return redirect('/medicos/abrir_horario')
+    
+    
     
 def abrir_horario(request):
 
