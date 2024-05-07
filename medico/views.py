@@ -44,9 +44,7 @@ def cadastro_medico(request):
             user=request.user,
             descricao=descricao,
             especialidade_id=especialidade,
-            descricao=descricao,
             valor_consulta=valor_consulta,
-            user=request.user
 
         )
 
