@@ -64,10 +64,13 @@ def abrir_horario(request):
     
     if request.method == "GET":
         dados_medicos = DadosMedico.objects.get(user=request.user)
-        return render(request, 'abrir_horario.html', {'dados_medicos': dados_medicos})
+        datas_abertas = DatasAbertas.objects.filter(user=request.user)
+        return render(request, 'abrir_horario.html', {'dados_medicos': dados_medicos, 'datas_abertas': datas_abertas})
     elif request.method == "POST":
         data = request.POST.get('data')
+        
         data_foratada = datetime.strptime(data, '%Y-%m-%dT%H:%M')
+
         if data_foratada <= datetime.now():
             messages.add_message(request, constants.WARNING, 'A data não pode ser anterior a data atual')
             return redirect('/medicos/abrir_horario')
@@ -76,6 +79,7 @@ def abrir_horario(request):
             data=data,
             user=request.user,
         )
+
         horario_abrir.save()
 
         messages.add_message(request, constants.SUCCESS, 'Horario cadastrado com sucesso.')
