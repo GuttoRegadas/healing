@@ -1,0 +1,492 @@
+02 out, 2023 1 commit
+Luciano Pinto Zorzanelli's avatar
+importação planilha visitantes
+Luciano Pinto Zorzanelli criou 3 dias atrás
+59bef4bf
+01 out, 2023 2 commits
+Luciano Pinto Zorzanelli's avatar
+merge
+Luciano Pinto Zorzanelli criou 4 dias atrás
+6fb990bc
+Luciano Pinto Zorzanelli's avatar
+colab chave list
+Luciano Pinto Zorzanelli criou 4 dias atrás
+0787302e
+29 set, 2023 1 commit
+gutemberg.monteiro's avatar
+Mi
+gutemberg.monteiro criou 5 dias atrás
+8170c646
+18 set, 2023 1 commit
+gutemberg.monteiro's avatar
+E-MAIL/logistica
+gutemberg.monteiro criou 2 semanas atrás
+c19e152f
+15 set, 2023 2 commits
+gutemberg.monteiro's avatar
+MESSAGES_ERROR if filtro por SALA
+gutemberg.monteiro criou 2 semanas atrás
+fc29377f
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 2 semanas atrás
+746b2f0f
+14 set, 2023 1 commit
+Luciano Pinto Zorzanelli's avatar
+menu label
+Luciano Pinto Zorzanelli criou 3 semanas atrás
+322d4b53
+13 set, 2023 1 commit
+gutemberg.monteiro's avatar
+Export/inventario_xls
+gutemberg.monteiro criou 3 semanas atrás
+89a726f0
+12 set, 2023 4 commits
+gutemberg.monteiro's avatar
+Teste/be.sala.num if 'messages.error()'
+gutemberg.monteiro criou 3 semanas atrás
+f5a81275
+gutemberg.monteiro's avatar
+Teste/num-patr if '-----'
+gutemberg.monteiro criou 3 semanas atrás
+8c107b71
+gutemberg.monteiro's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce
+gutemberg.monteiro criou 3 semanas atrás
+bac2e444
+gutemberg.monteiro's avatar
+Export/inventario_xls
+gutemberg.monteiro criou 3 semanas atrás
+e73d05c7
+06 set, 2023 4 commits
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 4 semanas atrás
+c429f392
+Luciano Pinto Zorzanelli's avatar
+popup x DEBUG Round 10
+Luciano Pinto Zorzanelli criou 4 semanas atrás
+69a30bbf
+gutemberg.monteiro's avatar
+Modificado/Incluido
+gutemberg.monteiro criou 4 semanas atrás
+88f73cf3
+Luciano Pinto Zorzanelli's avatar
+1-Tabbed+Popup+Debug ; 2-Autocomplete+Ativos
+Luciano Pinto Zorzanelli criou 4 semanas atrás
+dcbb4b4b
+30 ago, 2023 4 commits
+gutemberg.monteiro's avatar
+__str__/autorizado sala
+gutemberg.monteiro criou 1 mês atrás
+61744f30
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 1 mês atrás
+59d83987
+Luciano Pinto Zorzanelli's avatar
+popup debug = False
+Luciano Pinto Zorzanelli criou 1 mês atrás
+3c5d92a3
+gutemberg.monteiro's avatar
+cione na aba/patr_bemforms
+gutemberg.monteiro criou 1 mês atrás
+48c62e4b
+29 ago, 2023 1 commit
+gutemberg.monteiro's avatar
+Alterações Patr_Bem/PC_Colab/PC_Colab_Seg
+gutemberg.monteiro criou 1 mês atrás
+d1f4f12b
+28 ago, 2023 11 commits
+gutemberg.monteiro's avatar
+Alteraçoes de correções
+gutemberg.monteiro criou 1 mês atrás
+d1d0c661
+Luciano Pinto Zorzanelli's avatar
+seguranca form readonly fields
+Luciano Pinto Zorzanelli criou 1 mês atrás
+54316c2c
+Luciano Pinto Zorzanelli's avatar
+bem etiqueta
+Luciano Pinto Zorzanelli criou 1 mês atrás
+b5c1a535
+Luciano Pinto Zorzanelli's avatar
+bem etiqueta
+Luciano Pinto Zorzanelli criou 1 mês atrás
+8580b239
+Luciano Pinto Zorzanelli's avatar
+bem etiqueta
+Luciano Pinto Zorzanelli criou 1 mês atrás
+944b6145
+Luciano Pinto Zorzanelli's avatar
+Etiqueta
+Luciano Pinto Zorzanelli criou 1 mês atrás
+bcd4575e
+Luciano Pinto Zorzanelli's avatar
+bem etiqueta
+Luciano Pinto Zorzanelli criou 1 mês atrás
+976c181c
+Luciano Pinto Zorzanelli's avatar
+filtro acesso campus
+Luciano Pinto Zorzanelli criou 1 mês atrás
+be3712fd
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 1 mês atrás
+085121ff
+Luciano Pinto Zorzanelli's avatar
+ajustes migração
+Luciano Pinto Zorzanelli criou 1 mês atrás
+4bbfe085
+gutemberg.monteiro's avatar
+etiqueta/form_pc_colab
+gutemberg.monteiro criou 1 mês atrás
+705058a6
+27 ago, 2023 3 commits
+Luciano Pinto Zorzanelli's avatar
+ajustes colab_seg cpf invalido
+Luciano Pinto Zorzanelli criou 1 mês atrás
+795b884c
+Luciano Pinto Zorzanelli's avatar
+autocomplete 02
+Luciano Pinto Zorzanelli criou 1 mês atrás
+71147097
+Luciano Pinto Zorzanelli's avatar
+autocomplete webp
+Luciano Pinto Zorzanelli criou 1 mês atrás
+f5a10f4f
+26 ago, 2023 10 commits
+Luciano Pinto Zorzanelli's avatar
+teste gabriel 03
+Luciano Pinto Zorzanelli criou 1 mês atrás
+8112a743
+Luciano Pinto Zorzanelli's avatar
+teste gabriel 02
+Luciano Pinto Zorzanelli criou 1 mês atrás
+f1bcfe84
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 1 mês atrás
+71dcd3b7
+Luciano Pinto Zorzanelli's avatar
+ajustes teste Gabriel
+Luciano Pinto Zorzanelli criou 1 mês atrás
+c20c3a1c
+gutemberg.monteiro's avatar
+Modify/Colab
+gutemberg.monteiro criou 1 mês atrás
+d95fb038
+LZORZA's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+LZORZA criou 1 mês atrás
+a319cdf1
+LZORZA's avatar
+Ajuste Patr pre-PRD
+LZORZA criou 1 mês atrás
+d7998717
+25 ago, 2023 6 commits
+gutemberg.monteiro's avatar
+Modify tabs/fieldsets in pc_colab/pc_colabseg
+gutemberg.monteiro criou 1 mês atrás
+41f2cfa8
+gutemberg.monteiro's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce
+gutemberg.monteiro criou 1 mês atrás
+1a1e1e11
+gutemberg.monteiro's avatar
+actions-TodosArquivos
+gutemberg.monteiro criou 1 mês atrás
+a92d1793
+LZORZA's avatar
+Ajuste patr-02
+LZORZA criou 1 mês atrás
+7012f45c
+LZORZA's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+LZORZA criou 1 mês atrás
+90d857b6
+LZORZA's avatar
+Ajuste patr
+LZORZA criou 1 mês atrás
+b11b6d3f
+24 ago, 2023 1 commit
+gutemberg.monteiro's avatar
+Import Doc
+gutemberg.monteiro criou 1 mês atrás
+3bd8ac20
+22 ago, 2023 1 commit
+LZORZA's avatar
+Patrimonio versao 0.1
+LZORZA criou 1 mês atrás
+5ba1ae41
+19 ago, 2023 2 commits
+Luciano Pinto Zorzanelli's avatar
+merge conflict
+Luciano Pinto Zorzanelli criou 1 mês atrás
+e706b5a5
+Luciano Pinto Zorzanelli's avatar
+ajustes colab
+Luciano Pinto Zorzanelli criou 1 mês atrás
+17ed9ead
+14 ago, 2023 1 commit
+gutemberg.monteiro's avatar
+Correções em Movimentação/SaidaCoresp/ChaveAdmin_actions
+gutemberg.monteiro criou 1 mês atrás
+4578331e
+11 ago, 2023 3 commits
+gutemberg.monteiro's avatar
+.aligned label/text-aling: de 'right' p/ 'left'
+gutemberg.monteiro criou 1 mês atrás
+717a8b3f
+gutemberg.monteiro's avatar
+USE_L10N
+gutemberg.monteiro criou 1 mês atrás
+67e8fa55
+Luciano Pinto Zorzanelli's avatar
+acerto data/hora
+Luciano Pinto Zorzanelli criou 1 mês atrás
+d78e3d68
+09 ago, 2023 2 commits
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 1 mês atrás
+cab584eb
+Luciano Pinto Zorzanelli's avatar
+acertos check colab
+Luciano Pinto Zorzanelli criou 1 mês atrás
+e34faf66
+08 ago, 2023 1 commit
+gutemberg.monteiro's avatar
+Coreções de Erros
+gutemberg.monteiro criou 1 mês atrás
+ac7bc5ed
+07 ago, 2023 4 commits
+gutemberg.monteiro's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce
+gutemberg.monteiro criou 1 mês atrás
+2864faa2
+gutemberg.monteiro's avatar
+.aligned label {text-align: left;
+gutemberg.monteiro criou 1 mês atrás
+ec465af2
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 1 mês atrás
+e76113be
+Luciano Pinto Zorzanelli's avatar
+pc_colab: porteiro x entrada/saída colaborador e coluna colaborador em... 
+Luciano Pinto Zorzanelli criou 1 mês atrás
+795b4471
+04 ago, 2023 6 commits
+gutemberg.monteiro's avatar
+MENU
+gutemberg.monteiro criou 2 meses atrás
+edf8ecd2
+gutemberg.monteiro's avatar
+pc_check
+gutemberg.monteiro criou 2 meses atrás
+eae71f0f
+Luciano Pinto Zorzanelli's avatar
+Merge branch 'main' of https://gitlab.fiocruz.br/luciano.zorzanelli/fioce into main
+Luciano Pinto Zorzanelli criou 2 meses atrás
+2b43db24
+Luciano Pinto Zorzanelli's avatar
+acertos form.css, PC_colab.ativo e rename dir ColabMunicipio
+Luciano Pinto Zorzanelli criou 2 meses atrás
+8a003ea4
+gutemberg.monteiro's avatar
+Alteraçoes 02
+gutemberg.monteiro criou 2 meses atrás
+380c3c54
+gutemberg.monteiro's avatar
+Alterações
+gutemberg.monteiro criou 2 meses atrás
+f93a3832
+03 ago, 2023 4 commits
+Luciano Pinto Zorzanelli's avatar
+bugs 03 novo colaborador
+Luciano Pinto Zorzanelli criou 2 meses atrás
+0ad962ff
+gutemberg.monteiro's avatar
+ALTERAÇOES GUTTO
+gutemberg.monteiro criou 2 meses atrás
+9086e6b7
+Luciano Pinto Zorzanelli's avatar
+bugs novo colab 02
+Luciano Pinto Zorzanelli criou 2 meses atrás
+097e282e
+Luciano Pinto Zorzanelli's avatar
+bugs novo pc_colab
+Luciano Pinto Zorzanelli criou 2 meses atrás
+4f100584
+02 ago, 2023 2 commits
+Luciano Pinto Zorzanelli's avatar
+merge conflicts e DJAuth descomentado
+Luciano Pinto Zorzanelli criou 2 meses atrás
+7aa408b1
+Luciano Pinto Zorzanelli's avatar
+Novo módulo Colaborador
+Luciano Pinto Zorzanelli criou 2 meses atrás
+80ddc1e3
+29 jul, 2023 1 commit
+gutemberg.monteiro's avatar
+Subida com erro Retificada
+gutemberg.monteiro criou 2 meses atrás
+f07660c7
+27 jul, 2023 2 commits
+Luciano Pinto Zorzanelli's avatar
+substituindo views RH pelas tabs PC_
+Luciano Pinto Zorzanelli criou 2 meses atrás
+02d54323
+gutemberg.monteiro's avatar
+Logista e outras implementações
+gutemberg.monteiro criou 2 meses atrás
+366006d2
+30 jun, 2023 1 commit
+gutemberg.monteiro's avatar
+criar estrição no livro de ocorrências, os vigilante
+gutemberg.monteiro criou 3 meses atrás
+0af6e446
+29 jun, 2023 1 commit
+Gutemberg Monteiro Regadas's avatar
+PC_Colab Migração 001
+Gutemberg Monteiro Regadas criou jun 29, 2023
+5bd2885f
+07 jun, 2023 1 commit
+gutemberg.monteiro's avatar
+Alteraçoes Gerais tomb/templates, tomb/admin, tomb/models e lz/urls
+gutemberg.monteiro criou jun 07, 2023
+88c49440
+29 mai, 2023 1 commit
+gutemberg.monteiro's avatar
+Alterações change_list.html
+gutemberg.monteiro criou mai 29, 2023
+c2021d5d
+25 mai, 2023 2 commits
+gutemberg.monteiro's avatar
+Novo Menu
+gutemberg.monteiro criou mai 25, 2023
+07f02300
+gutemberg.monteiro's avatar
+Dashboard/Fogo_eqpto e menu sobreposto
+gutemberg.monteiro criou mai 25, 2023
+a3ba7489
+24 mai, 2023 1 commit
+gutemberg.monteiro's avatar
+Alterações em 'Fiscal Facility' e no novo menu
+gutemberg.monteiro criou mai 24, 2023
+5824487e
+22 mai, 2023 1 commit
+Gutemberg Monteiro Regadas's avatar
+Novo Menu
+Gutemberg Monteiro Regadas criou mai 22, 2023
+4d4f6b97
+19 mai, 2023 2 commits
+Gutemberg Monteiro Regadas's avatar
+error
+Gutemberg Monteiro Regadas criou mai 19, 2023
+adb65f10
+Gutemberg Monteiro Regadas's avatar
+New Menu Vertical
+Gutemberg Monteiro Regadas criou mai 19, 2023
+9634ca69
+18 mai, 2023 1 commit
+Gutemberg Monteiro Regadas's avatar
+Correção em changelist_view function/Email_acessoAdimin/admin.py
+Gutemberg Monteiro Regadas criou mai 18, 2023
+ef085a8f
+17 mai, 2023 2 commits
+Gutemberg Monteiro Regadas's avatar
+ERRO HML
+Gutemberg Monteiro Regadas criou mai 17, 2023
+aff63e90
+Gutemberg Monteiro Regadas's avatar
+FO_Param/Emvio de Email/Fisc_Ocor
+Gutemberg Monteiro Regadas criou mai 17, 2023
+61cd7dd7
+16 mai, 2023 1 commit
+Gutemberg Monteiro Regadas's avatar
+List_Filter/Fogo_Eqpto
+Gutemberg Monteiro Regadas criou mai 16, 2023
+22ab5619
+08 mai, 2023 2 commits
+gutemberg.monteiro's avatar
+invitations
+gutemberg.monteiro criou mai 08, 2023
+8b13ccc1
+Luciano Pinto Zorzanelli's avatar
+merge
+Luciano Pinto Zorzanelli criou mai 08, 2023
+1c62c3a2
+07 mai, 2023 1 commit
+Luciano Pinto Zorzanelli's avatar
+ajustes eqpto incêndio
+Luciano Pinto Zorzanelli criou mai 07, 2023
+0cc6456e
+05 mai, 2023 4 commits
+Gutemberg Monteiro Regadas's avatar
+Filtro/fogo_eqpto
+Gutemberg Monteiro Regadas criou mai 05, 2023
+fa76e456
+Gutemberg Monteiro Regadas's avatar
+Modify/admin.py/template_fogo_eqpto
+Gutemberg Monteiro Regadas criou mai 05, 2023
+e4fe8ff0
+Gutemberg Monteiro Regadas's avatar
+admin.py
+Gutemberg Monteiro Regadas criou mai 05, 2023
+8d922dc6
+Gutemberg Monteiro Regadas's avatar
+Modify/botão retirar
+Gutemberg Monteiro Regadas criou mai 05, 2023
+8ca6eabb
+02 mai, 2023 5 commits
+LZORZA's avatar
+new app colab after merge
+LZORZA criou mai 02, 2023
+76bd5b43
+LZORZA's avatar
+new app colab
+LZORZA criou mai 02, 2023
+64f060e3
+gutemberg.monteiro's avatar
+Modify/models.py Fogo_Eqpto
+gutemberg.monteiro criou mai 02, 2023
+57ff67b6
+gutemberg.monteiro's avatar
+Modify in Admin.py/Fogo_Eqpto
+gutemberg.monteiro criou mai 02, 2023
+1a63f6c4
+gutemberg.monteiro's avatar
+Alteração Fogo_Eqpto em... 
+gutemberg.monteiro criou mai 02, 2023
+a72ee10b
+27 abr, 2023 1 commit
+gutemberg.monteiro's avatar
+Fogo_Eqpto/templates/urls and Fisc_Ocor/templates modify
+gutemberg.monteiro criou abr 27, 2023
+b6081441
+04 abr, 2023 1 commit
+gutemberg.monteiro's avatar
+Model Fogo_Eqpto / Admin Fogo_eqpto / fogo_eqpto Changeform HTML / PDF Fisc_Ocor
+gutemberg.monteiro criou abr 04, 2023
+8e522a95
+24 mar, 2023 1 commit
+gutemberg.monteiro's avatar
+Settings.py
+gutemberg.monteiro criou mar 24, 2023
+e94c5dfb
+16 mar, 2023 2 commits
+gutemberg.monteiro's avatar
+pdf_param_ocor.html/Paliativo
+gutemberg.monteiro criou mar 16, 2023
+020fc43b
+gutemberg.monteiro's avatar
+Aterações/pdf/models/admin/views/urls/ttutil/pdf_html
+gutemberg.monteiro criou mar 16, 2023
+ede429f1
+08 mar, 2023 1 commit
+gutemberg.monteiro's avatar
+export_xls
+gutemberg.monteiro criou mar 08, 2023
+84d3d747

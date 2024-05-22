@@ -1,0 +1,2802 @@
+<ColaboradoresPorSiglaLocalizacao xmlns="http://ws.wso2.org/dataservice">
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ADRIANA COSTA BACELO</nome>
+        <email>adriana.bacelo@ini.fiocruz.br</email>
+        <email_alternativo>adribacelo@gmail.com</email_alternativo>
+        <login_unico>adriana.bacelo</login_unico>
+        <data_nascimento>1973-11-17-03:00</data_nascimento>
+        <cpf>03765429775</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030010001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>GAB/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/10/27</data_efetivo_exercicio>
+        <matricula>1896774</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R CAROLINA SUCUPIRA                                                                                                                                                                                     </end_logradouro>
+        <end_complemento>APTO 401                                          </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60140120  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ALICE PAULA DI SABATINO GUIMARAES</nome>
+        <email>alice.guimaraes@fiocruz.br</email>
+        <email_alternativo>alicesabatino@yahoo.com.br</email_alternativo>
+        <login_unico>alice.guimaraes</login_unico>
+        <data_nascimento>1982-08-11-03:00</data_nascimento>
+        <cpf>05624735642</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2015/07/15</data_efetivo_exercicio>
+        <matricula>2242450</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R CARAMURU                                                                                                                                                                                              </end_logradouro>
+        <end_complemento>CASA 4                                            </end_complemento>
+        <end_bairro>LAGOINHA                      </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61760680  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANA CAMILA OLIVEIRA ALVES</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>ana.camila</login_unico>
+        <data_nascimento>1985-05-18-03:00</data_nascimento>
+        <cpf>01381116345</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2019/12/04</data_efetivo_exercicio>
+        <matricula>1014947</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AVENIDA ROGACIANO LEITE                                                                                                                                                                                 </end_logradouro>
+        <end_complemento>APARTAMENTO 504                                   </end_complemento>
+        <end_bairro>GUARARAPES                    </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60810786  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANA CAROLINE MENDES BARBOSA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1996-06-14-03:00</data_nascimento>
+        <cpf>06585114329</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA TITI BESSA                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>CENTRO                        </end_bairro>
+        <end_municipio>CASCAVEL                      </end_municipio>
+        <end_cep>62850000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANA CLAUDIA DE ARAUJO TEIXEIRA</nome>
+        <email>ana.claudia@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>ana.claudia</login_unico>
+        <data_nascimento>1964-07-14-03:00</data_nascimento>
+        <cpf>21138893315</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014200</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SAM/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2015/08/17</data_efetivo_exercicio>
+        <matricula>1165347</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>TIRADENTES                                                                                                                                                                                              </end_logradouro>
+        <end_complemento>BLOCO J / 101                                     </end_complemento>
+        <end_bairro>RODOLFO TEOFILO               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60430560  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANA JULIA FERREIRA LIMA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>ana.julia</login_unico>
+        <data_nascimento>1998-09-23-03:00</data_nascimento>
+        <cpf>04282092386</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA MACHADO DE ASSIS                                                                                                                                                                                    </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>DAMAS                         </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60426000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANNA CAROLINA MACHADO MARINHO</nome>
+        <email>anna.marinho@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>anna.marinho</login_unico>
+        <data_nascimento>1985-01-22-03:00</data_nascimento>
+        <cpf>05731779708</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/12</data_efetivo_exercicio>
+        <matricula>2181909</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RAIMUNDA NOGUEIRA MARTINS                                                                                                                                                                               </end_logradouro>
+        <end_complemento>CASA                                              </end_complemento>
+        <end_bairro>CENTRO                        </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANTONIO MARCOS AIRES BARBOSA</nome>
+        <email>marcos.aires@fiocruz.br</email>
+        <email_alternativo>marcosaires1@gmail.com</email_alternativo>
+        <login_unico>marcos.aires</login_unico>
+        <data_nascimento>1977-08-11-03:00</data_nascimento>
+        <cpf>74858114368</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030013100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>NIT/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/11/07</data_efetivo_exercicio>
+        <matricula>1683775</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA PROFESSOR HERIBALDO COSTA                                                                                                                                                                           </end_logradouro>
+        <end_complemento>-                                                 </end_complemento>
+        <end_bairro>HENRIQUE JORGE                </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60525190  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANYA PIMENTEL GOMES FERNANDES VIEIRA MEYER</nome>
+        <email>anya.vieira@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>anya.vieira</login_unico>
+        <data_nascimento>1976-07-23-03:00</data_nascimento>
+        <cpf>70621993387</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/11/05</data_efetivo_exercicio>
+        <matricula>2904868</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV BEIRA MAR                                                                                                                                                                                            </end_logradouro>
+        <end_complemento>AP 1001                                           </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60165120  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ESPECIALISTA C&amp;T PROD INOV SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ANYA PIMENTEL GOMES FERNANDES VIEIRA MEYER</nome>
+        <email>anya@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>anya.vieira</login_unico>
+        <data_nascimento>1976-07-23-03:00</data_nascimento>
+        <cpf>70621993387</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>2011/12/07</data_efetivo_exercicio>
+        <matricula>1904868</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV BEIRA MAR                                                                                                                                                                                            </end_logradouro>
+        <end_complemento>AP 1001                                           </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60165120  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>AYESKA HAISA ALEXANDRE DE LIMA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>ayeska.lima</login_unico>
+        <data_nascimento>1995-05-10-03:00</data_nascimento>
+        <cpf>60592635341</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA FREDERICO DE ANDRADE                                                                                                                                                                                </end_logradouro>
+        <end_complemento>CA A                                              </end_complemento>
+        <end_bairro>CARLITO PAMPLONA              </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60335380  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>BRUNO BEZERRA CARVALHO</nome>
+        <email>bruno.carvalho@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>bruno.carvalho</login_unico>
+        <data_nascimento>1979-05-01-03:00</data_nascimento>
+        <cpf>05285460743</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030001100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CGDI/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/01/19</data_efetivo_exercicio>
+        <matricula>1913135</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RAIMUNDA NOGUEIRA MARTINS                                                                                                                                                                               </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>TABAJARA                      </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CAIO MIRANDA SOUZA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>2001-12-23-02:00</data_nascimento>
+        <cpf>08368395364</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA COSTA MACHADO                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>PARQUE HAVAI                  </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61760000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Camila Victor Vitorino Holanda</nome>
+        <email>camila.holanda@fiocruz.br</email>
+        <email_alternativo>camila.victor@gmail.com</email_alternativo>
+        <login_unico>camila.holanda</login_unico>
+        <data_nascimento>1982-10-15-03:00</data_nascimento>
+        <cpf>91517761387</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Camila Victor Vitorino Holanda</nome>
+        <email>camila.holanda@fiocruz.br</email>
+        <email_alternativo>camila.victor@gmail.com</email_alternativo>
+        <login_unico>camila.holanda</login_unico>
+        <data_nascimento>1982-10-15-03:00</data_nascimento>
+        <cpf>91517761387</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Camilla do Nascimento Cruz</nome>
+        <email>camila.nascimento@fiocruz.br</email>
+        <email_alternativo>camillanascimentocruzz@gmail.com</email_alternativo>
+        <login_unico>camila.nascimento</login_unico>
+        <data_nascimento>1990-08-07-03:00</data_nascimento>
+        <cpf>01757367314</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CARLA FREIRE CELEDONIO FERNANDES</nome>
+        <email>carla.celedonio@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>carla.celedonio</login_unico>
+        <data_nascimento>1978-05-02-03:00</data_nascimento>
+        <cpf>77425146304</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/11/07</data_efetivo_exercicio>
+        <matricula>2175249</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>OCEANO INDICO                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>GOLF VILLE, APT 31 BL                             </end_complemento>
+        <end_bairro>PORTO DAS DUNAS               </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Carlos Augusto Guimaraes Fonseca</nome>
+        <email>carlos.fonseca@fiocruz.br</email>
+        <email_alternativo>laudosguto@gmail.com</email_alternativo>
+        <login_unico>carlos.fonseca</login_unico>
+        <data_nascimento>1982-01-14-03:00</data_nascimento>
+        <cpf>30127486879</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CARLOS JOSE ARAUJO PINHEIRO</nome>
+        <email>carlos.pinheiro@fiocruz.br</email>
+        <email_alternativo>carjopin@hotmail.com</email_alternativo>
+        <login_unico>carlos.pinheiro</login_unico>
+        <data_nascimento>1982-03-19-03:00</data_nascimento>
+        <cpf>66079063387</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030012200</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SEAC/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2019/04/22</data_efetivo_exercicio>
+        <matricula>1683295</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AVENIDA BEIRA MAR                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>APT 600                                           </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60165120  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TÉCNICO EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CATARINA MARIA ALENCAR ABREU</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>2001-05-26-03:00</data_nascimento>
+        <cpf>08476973390</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA 14 LT ALTO DA BOA VISTA                                                                                                                                                                             </end_logradouro>
+        <end_complemento>CS B                                              </end_complemento>
+        <end_bairro>PEDRAS                        </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60875420  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Cesarina de Sousa Mendes da Costa</nome>
+        <email>lorena.costa@fiocruz.br</email>
+        <email_alternativo>lorenasousa07@hotmail.com</email_alternativo>
+        <login_unico>lorena.costa</login_unico>
+        <data_nascimento>1994-12-07-02:00</data_nascimento>
+        <cpf>61109582390</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CHARLES CERQUEIRA DE ABREU</nome>
+        <email>charles.abreu@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>charles.abreu</login_unico>
+        <data_nascimento>1968-04-21-03:00</data_nascimento>
+        <cpf>68252170463</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011510</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>AEX/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2008/03/06</data_efetivo_exercicio>
+        <matricula>1613229</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>PRACA 23 DE JUNHO                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>APTO 13                                           </end_complemento>
+        <end_bairro>CENTRO                        </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61760000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TÉCNICO EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CLARICE GOMES E SOUZA DABES</nome>
+        <email>clarice.dabes@fiocruz.br</email>
+        <email_alternativo>cladabes@yahoo.com.br</email_alternativo>
+        <login_unico>clarice.dabes</login_unico>
+        <data_nascimento>1984-10-04-03:00</data_nascimento>
+        <cpf>07207215630</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011700</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SEQUALI/FIOCRCE</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2013/02/04</data_efetivo_exercicio>
+        <matricula>1993800</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R LUIS PIO CAMPINA                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>01                                                </end_complemento>
+        <end_bairro>TAMATANDUBA                   </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61768690  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CLARISSA ROMERO TEIXEIRA</nome>
+        <email>clarissa.teixeira@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>clarissa.teixeira</login_unico>
+        <data_nascimento>1976-01-12-03:00</data_nascimento>
+        <cpf>74257498315</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/09</data_efetivo_exercicio>
+        <matricula>2181594</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R VSC DE MAUA                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>APT 701                                           </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60125160  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CLAUDIA DO O PESSOA</nome>
+        <email>claudiapessoa@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>claudia.pessoa</login_unico>
+        <data_nascimento>1966-08-22-03:00</data_nascimento>
+        <cpf>52089118415</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>2014/08/14</data_efetivo_exercicio>
+        <matricula>2121305</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA EDUARDO GARCIA                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>APTO 901                                          </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60150100  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CLAUDIA DO O PESSOA</nome>
+        <email>claudiapessoa@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>claudia.pessoa</login_unico>
+        <data_nascimento>1966-08-22-03:00</data_nascimento>
+        <cpf>52089118415</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030000000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/08/14</data_efetivo_exercicio>
+        <matricula>1121305</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA EDUARDO GARCIA                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>APTO 901                                          </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60150000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>CLAUDIA STUTZ ZUBIETA</nome>
+        <email>claudia.stutz@fiocruz.br</email>
+        <email_alternativo>claudia.stutz@gmail.com</email_alternativo>
+        <login_unico>claudia.stutz</login_unico>
+        <data_nascimento>1978-04-17-03:00</data_nascimento>
+        <cpf>07264705706</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2006/11/27</data_efetivo_exercicio>
+        <matricula>1538475</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>DOUTOR EVANDRO STUDART                                                                                                                                                                                  </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>DIVINEIA                      </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TÉCNICO EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>DANN ELIEZER GUIMARÃES MARTINS BARBOSA</nome>
+        <email>dann.eliezer@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1986-08-26-03:00</data_nascimento>
+        <cpf>02173909355</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>030011440</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>SHD/FIOCRUZCE  </loca_sigla>
+        <empresa>32011</empresa>
+        <vinculo>02</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>                                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>                              </end_bairro>
+        <end_municipio>                              </end_municipio>
+        <end_cep>          </end_cep>
+        <end_uf>  </end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>LIFE TECNOLOGIA E CONSULTORIA LTDA.                                                                 </nome_empresa>
+        <desc_vinculo>TERCEIRIZADO                       </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>DARLAN MATHEUS DE OLIVEIRA MARTINS</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1995-07-13-03:00</data_nascimento>
+        <cpf>60859006352</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA CONEGO DE CASTRO                                                                                                                                                                                    </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>PARQUE SAO JOSE               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60730202  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>DAVI DE CASTRO GOMES</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1997-03-14-03:00</data_nascimento>
+        <cpf>01199090301</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA OSVALDO CRUZ                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>APARTAMENTO 1002                                  </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60125048  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>DAYANE ALVES COSTA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>dayane.costa</login_unico>
+        <data_nascimento>1986-04-23-03:00</data_nascimento>
+        <cpf>01849290326</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2023/07/28</data_efetivo_exercicio>
+        <matricula>1345145</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R SILVA JATAHY                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>APTO2101                                          </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60165070  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Dericky Carvalho Ribeiro Silva</nome>
+        <email>almoxarifadoce@fiocruz.br</email>
+        <email_alternativo>derickycarvalho@hotmail.com</email_alternativo>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1993-06-23-03:00</data_nascimento>
+        <cpf>05941739303</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>DONAT ALEXANDER DE CHAPEAUROUGE</nome>
+        <email>donat.alexander@fiocruz.br</email>
+        <email_alternativo>donat.chapeaurouge@northwestern.edu</email_alternativo>
+        <login_unico>donat.alexander</login_unico>
+        <data_nascimento>1961-01-10-03:00</data_nascimento>
+        <cpf>05477150726</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2002/07/15</data_efetivo_exercicio>
+        <matricula>1319630</matricula>
+        <nacionalidade>ESTRANGEIRO</nacionalidade>
+        <end_logradouro>RUA ANA BILHAR                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>APT. 2104                                         </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60160110  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>EDMILSON SANTANA DE SOUZA</nome>
+        <email>edmilson.santana@fiocruz.br</email>
+        <email_alternativo>edmilsonsantanadesouza@hotmail.com</email_alternativo>
+        <login_unico>edmilson.santana</login_unico>
+        <data_nascimento>1970-01-13-03:00</data_nascimento>
+        <cpf>00285419790</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>EDUARDO RUBACK DOS SANTOS</nome>
+        <email>eduardo.ruback@incqs.fiocruz.br</email>
+        <email_alternativo>eruback@gmail.com</email_alternativo>
+        <login_unico>eduardo.ruback</login_unico>
+        <data_nascimento>1977-07-03-03:00</data_nascimento>
+        <cpf>08069625775</cpf>
+        <uni_codigo>065000000</uni_codigo>
+        <localizacao>030000000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>INCQS          </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/12</data_efetivo_exercicio>
+        <matricula>2182142</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R NIKOLA TESLA                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>ENCANTADA                     </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61772890  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Elian Matias da silva</nome>
+        <email>elian.silva@fiocruz.br</email>
+        <email_alternativo>matiaselian18@gmail.com</email_alternativo>
+        <login_unico>elian.silva</login_unico>
+        <data_nascimento>2002-05-18-03:00</data_nascimento>
+        <cpf>09410439329</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ERISVALDO PAULO NOGUEIRA JÚNIOR</nome>
+        <email>nogueira.junior@fiocruz.br</email>
+        <email_alternativo>juniorcefetce@yahoo.com.br</email_alternativo>
+        <login_unico/>
+        <data_nascimento>1978-07-05-03:00</data_nascimento>
+        <cpf>65621530349</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>71016</empresa>
+        <vinculo>02</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>                                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>                              </end_bairro>
+        <end_municipio>                              </end_municipio>
+        <end_cep>          </end_cep>
+        <end_uf>  </end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>LIFE TECNOLOGIA E CONSULTORIA LTDA.                                                                 </nome_empresa>
+        <desc_vinculo>TERCEIRIZADO                       </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>EZEQUIEL VALENTIM DE MELO</nome>
+        <email>ezequiel.melo@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>ezequiel.melo</login_unico>
+        <data_nascimento>1960-05-02-03:00</data_nascimento>
+        <cpf>22470034191</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011600</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>ADM/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2008/06/09</data_efetivo_exercicio>
+        <matricula>0445970</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>ROGACIANO LEITE                                                                                                                                                                                         </end_logradouro>
+        <end_complemento>APTO 803 - TORRE FRIB                             </end_complemento>
+        <end_bairro>SALINAS                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60810786  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>FABIO MARTINS UCHOA</nome>
+        <email>fabio.uchoa@fiocruz.br</email>
+        <email_alternativo>fabiomartins.prod@gmail.com</email_alternativo>
+        <login_unico>fabio.uchoa</login_unico>
+        <data_nascimento>1987-06-27-03:00</data_nascimento>
+        <cpf>02675011371</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>32011</empresa>
+        <vinculo>02</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>                                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>                              </end_bairro>
+        <end_municipio>                              </end_municipio>
+        <end_cep>          </end_cep>
+        <end_uf>  </end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>LIFE TECNOLOGIA E CONSULTORIA LTDA.                                                                 </nome_empresa>
+        <desc_vinculo>TERCEIRIZADO                       </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>FABIO MIYAJIMA</nome>
+        <email>fabio.miyajima@fiocruz.br</email>
+        <email_alternativo>fabio.osv@gmail.com</email_alternativo>
+        <login_unico>fabio.miyajima</login_unico>
+        <data_nascimento>1974-06-26-03:00</data_nascimento>
+        <cpf>52321746149</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014430</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>GEEP/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2018/01/12</data_efetivo_exercicio>
+        <matricula>1344058</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>BILL  CARTAXO                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>CASA 10                                           </end_complemento>
+        <end_bairro>JOSE DE ALENCAR               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60833185  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ESPECIALISTA C&amp;T PROD INOV SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Fernanda Silva Eustaquio</nome>
+        <email/>
+        <email_alternativo>nandaeustaquio7@gmail.com</email_alternativo>
+        <login_unico>fernanda.eustaquio</login_unico>
+        <data_nascimento>1993-11-28-02:00</data_nascimento>
+        <cpf>05960589508</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Fernanda Silva Eustaquio</nome>
+        <email/>
+        <email_alternativo>nandaeustaquio7@gmail.com</email_alternativo>
+        <login_unico>fernanda.eustaquio</login_unico>
+        <data_nascimento>1993-11-28-02:00</data_nascimento>
+        <cpf>05960589508</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>FERNANDO BRAGA STEHLING DIAS</nome>
+        <email>fernando.dias@fiocruz.br</email>
+        <email_alternativo>fbragasdias@gmail.com</email_alternativo>
+        <login_unico>fernando.dias</login_unico>
+        <data_nascimento>1979-09-08-03:00</data_nascimento>
+        <cpf>04726304666</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2015/07/16</data_efetivo_exercicio>
+        <matricula>2243169</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R FONSECA LOBO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>702                                               </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60175020  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>FERNANDO FERREIRA CARNEIRO</nome>
+        <email>fernando.carneiro@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>fernando.carneiro</login_unico>
+        <data_nascimento>1973-06-29-03:00</data_nascimento>
+        <cpf>96131292604</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014200</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SAM/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/02</data_efetivo_exercicio>
+        <matricula>1493522</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA BENTO ALBURQUEQUE                                                                                                                                                                                   </end_logradouro>
+        <end_complemento>TORRE LILAC APT 2002                              </end_complemento>
+        <end_bairro>COCO                          </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60192052  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>FRANCISCO LEANDRO FERNANDES SAMPAIO</nome>
+        <email/>
+        <email_alternativo>leandrofernandes1998@outlook.com</email_alternativo>
+        <login_unico>francisco.sampaio</login_unico>
+        <data_nascimento>1998-03-09-03:00</data_nascimento>
+        <cpf>60798854332</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014300</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SDI/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>70</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>1753/01/01</data_efetivo_exercicio>
+        <matricula>3313989</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA EDUARDO NOVAES                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>SAPIRANGA-COITE               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60833232  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>ESTAGIARIO                         </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Gabriel de Moura Minarini</nome>
+        <email>gabriel.moura@fiocruz.br</email>
+        <email_alternativo>gabrielminarini.tst@gmail.com</email_alternativo>
+        <login_unico>gabriel.moura</login_unico>
+        <data_nascimento>1986-03-06-02:00</data_nascimento>
+        <cpf>10684345706</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>GALBA FREIRE MOITA</nome>
+        <email/>
+        <email_alternativo>prgalba@gmail.com</email_alternativo>
+        <login_unico>galba.moita</login_unico>
+        <data_nascimento>1966-10-22-03:00</data_nascimento>
+        <cpf>26464586300</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030013000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CPIS/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2018/06/01</data_efetivo_exercicio>
+        <matricula>2249463</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV PE ANTONIO TOMAS                                                                                                                                                                                     </end_logradouro>
+        <end_complemento>APTO 2001                                         </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60140160  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>GILVAN PESSOA FURTADO</nome>
+        <email>gilvan.furtado@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>gilvan.furtado</login_unico>
+        <data_nascimento>1984-01-20-03:00</data_nascimento>
+        <cpf>05486311664</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2015/01/06</data_efetivo_exercicio>
+        <matricula>2184558</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA PROFESSOR OTAVIO LOBO                                                                                                                                                                               </end_logradouro>
+        <end_complemento>APT 1202                                          </end_complemento>
+        <end_bairro>COCO                          </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60192290  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>GIOVANNY AUGUSTO CAMACHO ANTEVERE MAZZAROTTO</nome>
+        <email>giovanny.mazzarotto@fiocruz.br</email>
+        <email_alternativo>gio.mazzarotto@gmail.com</email_alternativo>
+        <login_unico>giovanny.mazzarotto</login_unico>
+        <data_nascimento>1983-08-07-03:00</data_nascimento>
+        <cpf>04513776994</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/12/18</data_efetivo_exercicio>
+        <matricula>1985736</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>CAJUEIRO                                                                                                                                                                                                </end_logradouro>
+        <end_complemento>BLOCO 3 APTO 101                                  </end_complemento>
+        <end_bairro>PORTO DAS DUNAS               </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>GUTEMBERG MONTEIRO REGADAS</nome>
+        <email>gutemberg.monteiro@fiocruz.br</email>
+        <email_alternativo>guttomonteiroregadas@gmail.com</email_alternativo>
+        <login_unico>gutemberg.monteiro</login_unico>
+        <data_nascimento>1986-05-08-03:00</data_nascimento>
+        <cpf>01038685346</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001019004</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>GEST/FIOCRUZ/CE</loca_sigla>
+        <empresa>32012</empresa>
+        <vinculo>02</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>                                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>                              </end_bairro>
+        <end_municipio>                              </end_municipio>
+        <end_cep>          </end_cep>
+        <end_uf>  </end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>LIFE TECNOLOGIA E CONSULTORIA LTDA.                                                                 </nome_empresa>
+        <desc_vinculo>TERCEIRIZADO                       </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>IGOR CABRAL STUDART</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>igor.studart</login_unico>
+        <data_nascimento>1985-10-01-03:00</data_nascimento>
+        <cpf>01177062305</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA RODRIGUES DE ANDRADE                                                                                                                                                                                </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>DEMOCRITO ROCHA               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60440080  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Ilana Carneiro Lisboa Magalhães</nome>
+        <email>ilana.magalhaes@fiocruz.br</email>
+        <email_alternativo>ilanamagalhaes@hotmail.com</email_alternativo>
+        <login_unico>ilana.magalhaes</login_unico>
+        <data_nascimento>1993-11-05-02:00</data_nascimento>
+        <cpf>05599909360</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>98</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>CELETISTA FIOTEC                   </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Isabela Cristina da Paixao Minarini</nome>
+        <email>isabela.minarini@fiocruz.br</email>
+        <email_alternativo>isabelaminarini4@gmail.com</email_alternativo>
+        <login_unico>isabela.minarini</login_unico>
+        <data_nascimento>1986-10-17-03:00</data_nascimento>
+        <cpf>05814104759</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>IVANA CRISTINA DE HOLANDA CUNHA BARRETO</nome>
+        <email>ivana.barreto@fiocruz.br</email>
+        <email_alternativo>ivana_barreto@yahoo.com</email_alternativo>
+        <login_unico>ivana.barreto</login_unico>
+        <data_nascimento>1964-08-24-03:00</data_nascimento>
+        <cpf>45145091400</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014300</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SDI/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/18</data_efetivo_exercicio>
+        <matricula>1350230</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA LEONARDO MOTA                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>APT. 802                                          </end_complemento>
+        <end_bairro>DIONISIO TORRES               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60170041  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ESPECIALISTA C&amp;T PROD INOV SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>IVANILDO LOPES FARIAS</nome>
+        <email>ivanildo.lopes@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>ivanildo.lopes</login_unico>
+        <data_nascimento>1966-07-25-03:00</data_nascimento>
+        <cpf>88062910768</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011200</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>INFRA/FIOCRUZCE</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/11/08</data_efetivo_exercicio>
+        <matricula>1715669</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA SALVADOR CORREIA DE SA                                                                                                                                                                              </end_logradouro>
+        <end_complemento>AP. 202  BLOCO 9                                  </end_complemento>
+        <end_bairro>SAPIRANGA                     </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60833183  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JAIME RIBEIRO FILHO</nome>
+        <email>jaime.ribeiro@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>jaime.ribeiro</login_unico>
+        <data_nascimento>1986-02-26-02:00</data_nascimento>
+        <cpf>00534319360</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CPCB/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2019/05/02</data_efetivo_exercicio>
+        <matricula>3121258</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>NOSSA SENHORA DE LOURDES                                                                                                                                                                                </end_logradouro>
+        <end_complemento>CASA 9                                            </end_complemento>
+        <end_bairro>DIVINEIA                      </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JAMILLY FERREIRA OLIVEIRA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>jamilly.oliveira</login_unico>
+        <data_nascimento>1997-07-16-03:00</data_nascimento>
+        <cpf>04085206397</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>AVENIDA TIBIRICA                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>CASA                                              </end_complemento>
+        <end_bairro>COUTO FERNANDES               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60441840  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JEAN VIEIRA SAMPAIO</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>jeasampaio</login_unico>
+        <data_nascimento>1998-01-26-02:00</data_nascimento>
+        <cpf>04991159377</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA PADRE BARBOSA DE JESUS                                                                                                                                                                              </end_logradouro>
+        <end_complemento>APT 902                                           </end_complemento>
+        <end_bairro>FATIMA                        </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60040480  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JOAO BAPTISTA ESTABILE NETO</nome>
+        <email>joao.estabile@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>joao.estabile</login_unico>
+        <data_nascimento>1968-06-22-03:00</data_nascimento>
+        <cpf>01264895720</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030010020</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>ASCOM/FIOCRUZCE</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>1996/11/12</data_efetivo_exercicio>
+        <matricula>1049924</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R ZEZITO GOMES                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>CASA 3                                            </end_complemento>
+        <end_bairro>TIMBU                         </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61777270  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ASSISTENTE TÉCNICO DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JOAO HERMINIO MARTINS DA SILVA</nome>
+        <email>joao.martins@fiocruz.br</email>
+        <email_alternativo>jmartinssena@gmail.com</email_alternativo>
+        <login_unico>joao.martins</login_unico>
+        <data_nascimento>1978-01-15-03:00</data_nascimento>
+        <cpf>07527257776</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CPCB/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/12/13</data_efetivo_exercicio>
+        <matricula>1497987</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA ANA BILHAR                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>APTO 1004                                         </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60160110  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JOAO PEDRO BESSA DE SOUZA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1997-08-25-03:00</data_nascimento>
+        <cpf>03997562300</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>AVENIDA GODOFREDO MACIEL                                                                                                                                                                                </end_logradouro>
+        <end_complemento>BL E APT 104                                      </end_complemento>
+        <end_bairro>PARANGABA                     </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60710000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>JOSE LUIS PASSOS CORDEIRO</nome>
+        <email>zeluis@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>jose.cordeiro</login_unico>
+        <data_nascimento>1971-12-31-03:00</data_nascimento>
+        <cpf>67659713000</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014200</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SAM/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2006/11/09</data_efetivo_exercicio>
+        <matricula>1556031</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>SANTA CECILIA                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>87                                                </end_complemento>
+        <end_bairro>GUARIBAS                      </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>06176000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>KAMILA MATOS DE ALBUQUERQUE</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>kamila.albuquerque</login_unico>
+        <data_nascimento>1976-03-08-03:00</data_nascimento>
+        <cpf>61778370349</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030000000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2020/05/13</data_efetivo_exercicio>
+        <matricula>1838905</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R BENTO ALBUQUERQUE                                                                                                                                                                                     </end_logradouro>
+        <end_complemento>400                                               </end_complemento>
+        <end_bairro>COCO                          </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60192055  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUCIANA COELHO SERAFIM</nome>
+        <email>luciana.serafim@fiocruz.br</email>
+        <email_alternativo>lucianaserafim_engenharia@yahoo.com.br</email_alternativo>
+        <login_unico>luciana.serafim</login_unico>
+        <data_nascimento>1978-09-19-03:00</data_nascimento>
+        <cpf>05404828706</cpf>
+        <uni_codigo>011000000</uni_codigo>
+        <localizacao>030000000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FAR-MANGUINHOS </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/11/17</data_efetivo_exercicio>
+        <matricula>1902167</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV STA CECILIA                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>CASA 25                                           </end_complemento>
+        <end_bairro>GUARIBAS                      </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61770030  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUCIANA PEREIRA LINDENMEYER</nome>
+        <email>luciana.lindenmeyer@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>luciana.lindenmeyer</login_unico>
+        <data_nascimento>1976-02-12-03:00</data_nascimento>
+        <cpf>07075852795</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030012000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CEIC/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2002/08/26</data_efetivo_exercicio>
+        <matricula>1359804</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV STA CECILIA                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>203                                               </end_complemento>
+        <end_bairro>GUARIBAS                      </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61770030  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUCIANA SILVERIO ALLELUIA HIGINO DA SILVA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>luciana.silverio</login_unico>
+        <data_nascimento>1975-03-24-03:00</data_nascimento>
+        <cpf>02087104778</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011130</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>STR/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2021/10/06</data_efetivo_exercicio>
+        <matricula>1079552</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA PROFESSOR FRANCISCO GONCALVES                                                                                                                                                                       </end_logradouro>
+        <end_complemento>201                                               </end_complemento>
+        <end_bairro>COCO                          </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60192170  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUCIANO PINTO ZORZANELLI</nome>
+        <email>luciano.zorzanelli@fiocruz.br</email>
+        <email_alternativo>lzorza@gmaill.com</email_alternativo>
+        <login_unico>luciano.zorzanelli</login_unico>
+        <data_nascimento>1968-06-06-03:00</data_nascimento>
+        <cpf>00130000710</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011410</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>DSW/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2013/04/08</data_efetivo_exercicio>
+        <matricula>2013979</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>CAMURUPIM                                                                                                                                                                                               </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>PORTO DAS DUNAS               </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUIS FERNANDO PESSOA DE ANDRADE</nome>
+        <email>luis.pessoa@fiocruz.br</email>
+        <email_alternativo>lfppessoa@hotmail.com</email_alternativo>
+        <login_unico>luis.pessoa</login_unico>
+        <data_nascimento>1952-10-26-03:00</data_nascimento>
+        <cpf>38867915720</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030013000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CPIS/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2002/10/18</data_efetivo_exercicio>
+        <matricula>0747225</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R PASCOAL DE C ALVES                                                                                                                                                                                    </end_logradouro>
+        <end_complemento>AP 402                                            </end_complemento>
+        <end_bairro>VICENTE PINZON                </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60181225  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>LUIZ ODORICO MONTEIRO DE ANDRADE</nome>
+        <email>odorico.monteiro@fiocruz.br</email>
+        <email_alternativo>odorico_andrade@hotmail.com</email_alternativo>
+        <login_unico>odorico.monteiro</login_unico>
+        <data_nascimento>1961-08-11-03:00</data_nascimento>
+        <cpf>19249330391</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030013000</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CPIS/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/06/27</data_efetivo_exercicio>
+        <matricula>1350229</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA LEONARDO MOTA                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>APTO. 802                                         </end_complemento>
+        <end_bairro>DIONISIO TORRES               </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60170041  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ESPECIALISTA C&amp;T PROD INOV SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Luiz Rons Caúla da Silva</nome>
+        <email/>
+        <email_alternativo>luizronscs@gmail.com</email_alternativo>
+        <login_unico>luiz.caula</login_unico>
+        <data_nascimento>1994-08-29-03:00</data_nascimento>
+        <cpf>60436070340</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>R RAFAEL LOPES                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>CS 11                                             </end_complemento>
+        <end_bairro>MONDUBIM                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60764530  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MAISA DE SALES COSTA</nome>
+        <email>maisa.costa@fiocruz.br</email>
+        <email_alternativo>maisasallescosta@gmail.com</email_alternativo>
+        <login_unico>maisa.costa</login_unico>
+        <data_nascimento>1995-02-14-02:00</data_nascimento>
+        <cpf>05960406365</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MAISA DE SALES COSTA</nome>
+        <email>maisa.costa@fiocruz.br</email>
+        <email_alternativo>maisasallescosta@gmail.com</email_alternativo>
+        <login_unico>maisa.costa</login_unico>
+        <data_nascimento>1995-02-14-02:00</data_nascimento>
+        <cpf>05960406365</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARCELA HELENA GAMBIM FONSECA</nome>
+        <email>marcela.gambim@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>marcela.gambim</login_unico>
+        <data_nascimento>1982-06-24-03:00</data_nascimento>
+        <cpf>30376592893</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030013220</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SOR/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2013/01/07</data_efetivo_exercicio>
+        <matricula>1985995</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV NOE L DE FREITAS                                                                                                                                                                                     </end_logradouro>
+        <end_complemento>CASA 39                                           </end_complemento>
+        <end_bairro>PARQUE HAWAI                  </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61761710  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARCELO JORGE LOPES COUTINHO</nome>
+        <email>marcelo.jorge@fiocruz.br</email>
+        <email_alternativo>marcelojorgelopescoutinho@gmail.com</email_alternativo>
+        <login_unico>marcelo.jorge</login_unico>
+        <data_nascimento>1987-12-20-02:00</data_nascimento>
+        <cpf>02682759394</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/08</data_efetivo_exercicio>
+        <matricula>2180858</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R TEREZINHA R BRAULINO                                                                                                                                                                                  </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>MANGABEIRA                    </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61779010  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TÉCNICO EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARCIO FLAVIO MOURA DE ARAUJO</nome>
+        <email>marcio.moura@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>marcio.moura</login_unico>
+        <data_nascimento>1982-09-20-03:00</data_nascimento>
+        <cpf>96250895353</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2019/04/26</data_efetivo_exercicio>
+        <matricula>1806284</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA CONSELHEIRO DA SILVA                                                                                                                                                                                </end_logradouro>
+        <end_complemento>PROXIMO ESCOLA SHALOM                             </end_complemento>
+        <end_bairro>BARROSO                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60862610  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARCOS ROBERTO LOURENZONI</nome>
+        <email>marcos.lourenzoni@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>marcos.lourenzoni</login_unico>
+        <data_nascimento>1972-12-15-03:00</data_nascimento>
+        <cpf>17178636807</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/06/25</data_efetivo_exercicio>
+        <matricula>1952032</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA LUIZA MIRANDA COELHO 1130                                                                                                                                                                           </end_logradouro>
+        <end_complemento>TORRE FLORA                                       </end_complemento>
+        <end_bairro>LUCIANO CAVALCANTE            </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60811110  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ESPECIALISTA C&amp;T PROD INOV SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARGARETH BORGES COUTINHO GALLO</nome>
+        <email>margareth.gallo@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>margareth.gallo</login_unico>
+        <data_nascimento>1963-06-10-03:00</data_nascimento>
+        <cpf>55457312615</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014200</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SAM/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/11/18</data_efetivo_exercicio>
+        <matricula>1901024</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R DR RAIMUNDO GUIMARAES                                                                                                                                                                                 </end_logradouro>
+        <end_complemento>CASA 28                                           </end_complemento>
+        <end_bairro>COITE                         </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61765270  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARIA EDUARDA GUEDES ONOFRE</nome>
+        <email/>
+        <email_alternativo>maredugued@gmail.com</email_alternativo>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>2002-11-19-02:00</data_nascimento>
+        <cpf>05950378369</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>030014000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>CPCB/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>70</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>1753/01/01</data_efetivo_exercicio>
+        <matricula>3290987</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R DO PRQ                                                                                                                                                                                                </end_logradouro>
+        <end_complemento>APTO 27 BLOCO 5                                   </end_complemento>
+        <end_bairro>CAMBEBA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60822178  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>NÃO INFORMADO</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>ESTAGIARIO                         </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARIO ITALO COELHO DOS SANTOS</nome>
+        <email>italo.santos@fiocruz.br</email>
+        <email_alternativo>marioa100@outlook.com</email_alternativo>
+        <login_unico>italo.santos</login_unico>
+        <data_nascimento>1998-09-06-03:00</data_nascimento>
+        <cpf>07660264346</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019004</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>GEST/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>98</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>CELETISTA FIOTEC                   </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARIO ITALO COELHO DOS SANTOS</nome>
+        <email>italo.santos@fiocruz.br</email>
+        <email_alternativo>marioa100@outlook.com</email_alternativo>
+        <login_unico>italo.santos</login_unico>
+        <data_nascimento>1998-09-06-03:00</data_nascimento>
+        <cpf>07660264346</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019004</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>GEST/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>98</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>CELETISTA FIOTEC                   </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARIO ITALO COELHO DOS SANTOS</nome>
+        <email>italo.santos@fiocruz.br</email>
+        <email_alternativo>marioa100@outlook.com</email_alternativo>
+        <login_unico>italo.santos</login_unico>
+        <data_nascimento>1998-09-06-03:00</data_nascimento>
+        <cpf>07660264346</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001019004</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>GEST/FIOCRUZ/CE</loca_sigla>
+        <empresa>71016</empresa>
+        <vinculo>02</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>                                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>                              </end_bairro>
+        <end_municipio>                              </end_municipio>
+        <end_cep>          </end_cep>
+        <end_uf>  </end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>LIFE TECNOLOGIA E CONSULTORIA LTDA.                                                                 </nome_empresa>
+        <desc_vinculo>TERCEIRIZADO                       </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MARLOS DE MEDEIROS CHAVES</nome>
+        <email>marlos.chaves@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>marlos.chaves</login_unico>
+        <data_nascimento>1969-07-31-03:00</data_nascimento>
+        <cpf>41416597387</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/07/02</data_efetivo_exercicio>
+        <matricula>1188635</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>MANOEL MONTEIRO                                                                                                                                                                                         </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>CIDADE DOS FUNCIONARIOS       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60822055  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TECNOLOGISTA EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MAURICIO FRAGA VAN TILBURG</nome>
+        <email>mauricio.tilburg@fiocruz.br</email>
+        <email_alternativo>mauricio_van_tilburg@yahoo.com.br</email_alternativo>
+        <login_unico>mauricio.tilburg</login_unico>
+        <data_nascimento>1974-06-24-03:00</data_nascimento>
+        <cpf>03816279775</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>98</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>CELETISTA FIOTEC                   </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>MAXIMILIANO LOIOLA PONTE DE SOUZA</nome>
+        <email>maximiliano.souza@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>maximiliano.souza</login_unico>
+        <data_nascimento>1975-01-22-03:00</data_nascimento>
+        <cpf>18077796885</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2006/11/22</data_efetivo_exercicio>
+        <matricula>1556258</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R EDUARDO GARCIA                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>COBERTURA                                         </end_complemento>
+        <end_bairro>ALDEOTA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60150100  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>NILTON LUIZ COSTA MACHADO</nome>
+        <email>nilton.machado@fiocruz.br</email>
+        <email_alternativo>luiznilton25@gmail.com</email_alternativo>
+        <login_unico>nilton.machado</login_unico>
+        <data_nascimento>1962-02-11-03:00</data_nascimento>
+        <cpf>67396933749</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011530</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>LOG/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>1989/07/05</data_efetivo_exercicio>
+        <matricula>0464200</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R OLHO D'AGUA                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>OLHO D'AGUA                   </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61776220  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ASSISTENTE TÉCNICO DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>Patricia Fernanda Rocha Dias</nome>
+        <email>patricia.rocha@fiocruz.br</email>
+        <email_alternativo>paty.pfrd@gmail.com</email_alternativo>
+        <login_unico>patricia.rocha</login_unico>
+        <data_nascimento>1991-10-21-02:00</data_nascimento>
+        <cpf>07839539920</cpf>
+        <uni_codigo>001000000</uni_codigo>
+        <localizacao>001019001</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>PR             </uni_sigla>
+        <loca_sigla>ALMO/FIOCRUZ/CE</loca_sigla>
+        <empresa>Colaborador Fiotec</empresa>
+        <vinculo>97</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>SEM INFORMACAO                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>0000000                                           </end_complemento>
+        <end_bairro>SEM INFORMACAO                </end_bairro>
+        <end_municipio>SEM INFORMACAO                </end_municipio>
+        <end_cep>00000000  </end_cep>
+        <end_uf>00</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>                                                                                                    </nome_empresa>
+        <desc_vinculo>BOLSISTA FIOTEC                    </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>PATRICIA MARIA FERREIRA DA SILVA</nome>
+        <email>patricia.silva@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>patricia.silva</login_unico>
+        <data_nascimento>1970-07-12-03:00</data_nascimento>
+        <cpf>00402331702</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011300</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>PLAN/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2008/06/18</data_efetivo_exercicio>
+        <matricula>1634325</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R GENTIL MTE SILVA                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>A CASA 1                                          </end_complemento>
+        <end_bairro>TAMATANDUBA                   </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61768780  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>RAPHAEL TREVIZANI ROQUE DE OLIVEIRA</nome>
+        <email>raphael.trevizani@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>raphael.trevizani</login_unico>
+        <data_nascimento>1984-08-23-03:00</data_nascimento>
+        <cpf>07054936604</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/11/25</data_efetivo_exercicio>
+        <matricula>2180289</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R FERNANDO SANTOS                                                                                                                                                                                       </end_logradouro>
+        <end_complemento>APTO 1202, DUE                                    </end_complemento>
+        <end_bairro>CAMBEBA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60822365  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>REGIS BERNARDO BRANDIM GOMES</nome>
+        <email>regis.gomes@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>regis.gomes</login_unico>
+        <data_nascimento>1970-05-12-03:00</data_nascimento>
+        <cpf>71432698320</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/12/09</data_efetivo_exercicio>
+        <matricula>2181469</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R VSC DE MAUA                                                                                                                                                                                           </end_logradouro>
+        <end_complemento>APARTAMENTO 701                                   </end_complemento>
+        <end_bairro>MEIRELES                      </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60125160  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>RENATO CALDEIRA DE SOUZA</nome>
+        <email>renato.souza@fiocruz.br</email>
+        <email_alternativo>rei-nato@hotmail.com</email_alternativo>
+        <login_unico>renato.souza</login_unico>
+        <data_nascimento>1976-08-12-03:00</data_nascimento>
+        <cpf>07283716777</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030001100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CGDI/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/10/06</data_efetivo_exercicio>
+        <matricula>1727289</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>ANGELICA                                                                                                                                                                                                </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>PARQUE DAS FLORES             </end_bairro>
+        <end_municipio>AQUIRAZ                       </end_municipio>
+        <end_cep>61700000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ASSISTENTE TÉCNICO DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ROBERTO NICOLETE</nome>
+        <email>roberto.nicolete@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>roberto.nicolete</login_unico>
+        <data_nascimento>1978-12-09-03:00</data_nascimento>
+        <cpf>28364306804</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2012/12/19</data_efetivo_exercicio>
+        <matricula>1985557</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>R GONCALVES LEDO                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>CENTRO                        </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60110261  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ROBERTO WAGNER JUNIOR FREIRE DE FREITAS</nome>
+        <email>roberto.wagner@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>roberto.wagner</login_unico>
+        <data_nascimento>1983-08-23-03:00</data_nascimento>
+        <cpf>93708173368</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SFA/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/11/24</data_efetivo_exercicio>
+        <matricula>1581487</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA SIGEFREDO PINHEIRO                                                                                                                                                                                  </end_logradouro>
+        <end_complemento>APTO 1503                                         </end_complemento>
+        <end_bairro>FATIMA                        </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60415160  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>RODRIGO CARVALHO NOGUEIRA</nome>
+        <email>rodrigo.nogueira@fiocruz.br</email>
+        <email_alternativo>rodrigosms10@yahoo.com.br</email_alternativo>
+        <login_unico>rodrigo.nogueira</login_unico>
+        <data_nascimento>1971-08-16-03:00</data_nascimento>
+        <cpf>52801071315</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011300</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>PLAN/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2011/11/11</data_efetivo_exercicio>
+        <matricula>1437828</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>JOSE RIBAMAR SOARES AGUIAR                                                                                                                                                                              </end_logradouro>
+        <end_complemento>APTO 803 BLC C                                    </end_complemento>
+        <end_bairro>PARQUE IRACEMA                </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60824235  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>ROSE MARY FARIA TORRES DE OLIVEIRA</nome>
+        <email>rose.torres@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>rose.torres</login_unico>
+        <data_nascimento>1962-10-31-03:00</data_nascimento>
+        <cpf>24192953315</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>1989/07/07</data_efetivo_exercicio>
+        <matricula>0464007</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV AUGUSTO DOS ANJOS                                                                                                                                                                                    </end_logradouro>
+        <end_complemento>BLOCO 02 APTO. 704                                </end_complemento>
+        <end_bairro>JOQUEI CLUBE                  </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60520022  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ASSISTENTE TÉCNICO DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>SANDRO GOMES SOARES</nome>
+        <email>sandro.soares@fiocruz.br</email>
+        <email_alternativo/>
+        <login_unico>sandro.soares</login_unico>
+        <data_nascimento>1974-07-31-03:00</data_nascimento>
+        <cpf>03070940730</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001019003</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>BIOT/FIOCRUZ/CE</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>2019/06/04</data_efetivo_exercicio>
+        <matricula>1013740</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA ANTONIO DE BARROS SERRA                                                                                                                                                                             </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>VILA IPIRANGA                 </end_bairro>
+        <end_municipio>SAO JOSE DO RIO PRETO         </end_municipio>
+        <end_cep>15055180  </end_cep>
+        <end_uf>SP</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>SERGIO DOS SANTOS REIS</nome>
+        <email>sergio.reis@fiocruz.br</email>
+        <email_alternativo>gehama@gmail.com</email_alternativo>
+        <login_unico>sergio.reis</login_unico>
+        <data_nascimento>1966-08-18-03:00</data_nascimento>
+        <cpf>91349567787</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030011100</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>SGP/FIOCRUZCE  </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2008/06/04</data_efetivo_exercicio>
+        <matricula>0669534</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV STA CECILIA                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>BLOCO 2 CASA 08                                   </end_complemento>
+        <end_bairro>GUARIBAS                      </end_bairro>
+        <end_municipio>EUSEBIO                       </end_municipio>
+        <end_cep>61770030  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>ANALISTA DE GESTÃO EM SAÚDE</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>SHARMENIA DE ARAUJO SOARES NUTO</nome>
+        <email>sharmenia.nuto@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>sharmenia.nuto</login_unico>
+        <data_nascimento>1971-10-02-03:00</data_nascimento>
+        <cpf>72163895300</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030012000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CEIC/FIOCRUZCE </loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2014/11/14</data_efetivo_exercicio>
+        <matricula>1165326</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>OLEGARIO MEMORIA                                                                                                                                                                                        </end_logradouro>
+        <end_complemento>CASA 26                                           </end_complemento>
+        <end_bairro>SAPIRANGA                     </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60833045  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>VANDERSON ARAUJO DE LIMA</nome>
+        <email/>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <data_nascimento>1998-11-02-02:00</data_nascimento>
+        <cpf>07281421397</cpf>
+        <uni_codigo>016000000</uni_codigo>
+        <localizacao>001011013</localizacao>
+        <sexo>M</sexo>
+        <uni_sigla>COGEPE         </uni_sigla>
+        <loca_sigla>FIOCRUZ/CE     </loca_sigla>
+        <empresa>60067</empresa>
+        <vinculo>04</vinculo>
+        <situacao>INATIVO</situacao>
+        <data_efetivo_exercicio>0000/00/00                    </data_efetivo_exercicio>
+        <matricula>0000000</matricula>
+        <nacionalidade>SEM INFORMACAO</nacionalidade>
+        <end_logradouro>RUA JOSE LUCAS                                                                                                                                                                                          </end_logradouro>
+        <end_complemento>                                                  </end_complemento>
+        <end_bairro>NOVA CIDADE                   </end_bairro>
+        <end_municipio>CASCAVEL                      </end_municipio>
+        <end_cep>62850000  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>SEM INFORMACAO</cargo>
+        <nome_empresa>FIOCRUZ - FUNDAÇÃO OSWALDO CRUZ                                                                     </nome_empresa>
+        <desc_vinculo>BOLSISTA                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>VANIRA MATOS PESSOA</nome>
+        <email>vanira.pessoa@fiocruz.br</email>
+        <email_alternativo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+        <login_unico>vanira.pessoa</login_unico>
+        <data_nascimento>1977-04-15-03:00</data_nascimento>
+        <cpf>74242709315</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030015000</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>CAAPS/FIOCRUZCE</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2013/01/15</data_efetivo_exercicio>
+        <matricula>1992814</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>RUA BENTO ALBUQUERQUE                                                                                                                                                                                   </end_logradouro>
+        <end_complemento>APTO 2002 TORRE LILAC                             </end_complemento>
+        <end_bairro>COCO                          </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60192050  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>PESQUISADOR EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+    <ColaboradorPorSiglaLocalizacao>
+        <nome>VENUCIA BRUNA MAGALHAES PEREIRA</nome>
+        <email>venucia.magalhaes@fiocruz.br</email>
+        <email_alternativo>venuciamagalhaes@yahoo.com.br</email_alternativo>
+        <login_unico>venucia.magalhaes</login_unico>
+        <data_nascimento>1986-09-27-03:00</data_nascimento>
+        <cpf>01801911363</cpf>
+        <uni_codigo>030000000</uni_codigo>
+        <localizacao>030014400</localizacao>
+        <sexo>F</sexo>
+        <uni_sigla>FIOCRUZ/CE     </uni_sigla>
+        <loca_sigla>BIOTEC/FIOCRUZC</loca_sigla>
+        <empresa>00000</empresa>
+        <vinculo>00</vinculo>
+        <situacao>ATIVO</situacao>
+        <data_efetivo_exercicio>2019/04/22</data_efetivo_exercicio>
+        <matricula>3121915</matricula>
+        <nacionalidade>BRASILEIRO NATO</nacionalidade>
+        <end_logradouro>AV DA UNIVERSIDADE                                                                                                                                                                                      </end_logradouro>
+        <end_complemento>BL 03 APTO 704                                    </end_complemento>
+        <end_bairro>BENFICA                       </end_bairro>
+        <end_municipio>FORTALEZA                     </end_municipio>
+        <end_cep>60020181  </end_cep>
+        <end_uf>CE</end_uf>
+        <cargo>TÉCNICO EM SAÚDE PÚBLICA</cargo>
+        <nome_empresa>FIOCRUZ                                                                                             </nome_empresa>
+        <desc_vinculo>SERVIDOR                           </desc_vinculo>
+    </ColaboradorPorSiglaLocalizacao>
+</ColaboradoresPorSiglaLocalizacao>

@@ -1,8 +1,9 @@
 from django.shortcuts import render, redirect
-from .models import Especialidades, DadosMedico, is_medico
+from .models import Especialidades, DadosMedico, is_medico, DatasAbertas
 from django.http import HttpResponse
 from django.contrib import messages
 from django.contrib.messages import constants
+from datetime import datetime
 
 # Create your views here.
 
@@ -61,5 +62,21 @@ def abrir_horario(request):
         messages.add_message(request, constants.WARNING, 'Somente Médicos podem acessar essa página!')
         return redirect('/usuarios/sair')
     
-    if request.mothod == "GET":
-        return render(request, 'abrir_horario.html')
+    if request.method == "GET":
+        dados_medicos = DadosMedico.objects.get(user=request.user)
+        return render(request, 'abrir_horario.html', {'dados_medicos': dados_medicos})
+    elif request.method == "POST":
+        data = request.POST.get('data')
+        data_foratada = datetime.strptime(data, '%Y-%m-%dT%H:%M')
+        if data_foratada <= datetime.now():
+            messages.add_message(request, constants.WARNING, 'A data não pode ser anterior a data atual')
+            return redirect('/medicos/abrir_horario')
+        
+        horario_abrir = DatasAbertas(
+            data=data,
+            user=request.user,
+        )
+        horario_abrir.save()
+
+        messages.add_message(request, constants.SUCCESS, 'Horario cadastrado com sucesso.')
+        return redirect('/medicos/abrir_horario')
