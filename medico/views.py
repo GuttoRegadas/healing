@@ -68,7 +68,7 @@ def abrir_horario(request):
         return render(request, 'abrir_horario.html', {'dados_medicos': dados_medicos, 'datas_abertas': datas_abertas})
     elif request.method == "POST":
         data = request.POST.get('data')
-        
+
         data_foratada = datetime.strptime(data, '%Y-%m-%dT%H:%M')
 
         if data_foratada <= datetime.now():

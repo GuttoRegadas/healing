@@ -37,4 +37,4 @@ class DatasAbertas(models.Model):
     agendado = models.BooleanField(default=False)
 
     def __str__(self):
-        {self.data.strftime("%Y/%m/%yT%H:%M")}
+        return {self.user}
