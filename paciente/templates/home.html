@@ -39,24 +39,22 @@
             <hr>
 
             <div class="list-medicos">
-               
-                <div class="card-medicos shadow-main-color">
-                    <div class="row">
-                        <div class="col-md-3"><img src="#" class="foto-perfil-card" alt=""></div>
-                        <div class="col-md">
-                            <p style="font-size: 20px" class="p-bold">Dr(a). Nome aqui <i class="bi bi-patch-check-fill icon-main"></i></p>
-                            <p>Descrição aqui</p>
-                        </div>
-                    </div>  
-                    <p><i class="bi bi-map icon-main"></i>&nbsp&nbspRua tal aqui, 000.</p>
-                    <p><i class="bi bi-calendar2-week icon-main"></i>&nbsp&nbspProxima data: 
-                        00/00/0000
-                        
-                    <a href="#" class="btn btn-success btn-dark-color">Agendar</a>
-                </div>
-                <br>
-                
-
+               {% for medico in medicos %}
+                    <div class="card-medicos shadow-main-color">
+                        <div class="row">
+                            <div class="col-md-3"><img src="{{ medico.foto.url}}" class="foto-perfil-card" alt=""></div>
+                            <div class="col-md">
+                                <p style="font-size: 20px" class="p-bold">Dr(a). {{medico.nome}} <i class="bi bi-patch-check-fill icon-main"></i></p>
+                                <p>Descrição aqui</p>
+                            </div>
+                        </div>  
+                        <p><i class="bi bi-map icon-main"></i>&nbsp&nbspRua tal aqui, 000.</p>
+                        <p><i class="bi bi-calendar2-week icon-main"></i>&nbsp&nbspProxima data: 
+                            00/00/0000   
+                        <a href="#" class="btn btn-success btn-dark-color">Agendar</a>
+                    </div>
+                    <br>
+                {% endfor %}
 
             </div>
 
