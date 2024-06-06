@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
+from datetime import datetime
 
 def is_medico(user):
     return DadosMedico.objects.filter(user=user).exists()
@@ -29,6 +30,14 @@ class DadosMedico(models.Model):
 
     def __str__(self) -> str:
         return f'{self.user.username}'
+    
+    @property
+    def proxima_data(self):
+        proxima_data = DatasAbertas.objects.filter(user=self.user).filter(data__gt=datetime.now()).filter(agendado=False).order_by('data').first()
+        '''if proxima_data == None:
+            return "Nenhuma data agendada."
+        else:'''
+        return proxima_data
     
 
 class DatasAbertas(models.Model):
