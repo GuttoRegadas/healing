@@ -54,3 +54,9 @@ def agendar_horario(request, id_data_aberta):
 
         messages.add_message(request, constants.SUCCESS, 'Consulta agendada com sucesso!')
         return redirect('/pacientes/minhas_consultas/')
+    
+
+def minhas_consultas(request):
+    if request.method == "GET":
+        minhas_consultas = Consulta.objects.filter(paciente=request.user).filter(data_aberta__data__gte=datetime.now())
+        return render(request, 'minhas_consultas.html', {'minhas_consultas': minhas_consultas})

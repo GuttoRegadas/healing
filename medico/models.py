@@ -46,4 +46,4 @@ class DatasAbertas(models.Model):
     agendado = models.BooleanField(default=False)
 
     def __str__(self):
-        return {self.user}
+        return str(self.data)
