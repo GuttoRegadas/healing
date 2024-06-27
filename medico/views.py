@@ -96,5 +96,5 @@ def consultas_medico(request):
     hoje = datetime.now().date()
 
     consultas_hoje = Consulta.objects.filter(data_aberta__user=request.user).filter(data_aberta__data__gte=hoje).filter(data_aberta__data__lt=hoje + timedelta(days=1) )
-     
-    return render(request, 'consultas_medico.html')
+    consultas_restantes =  Consulta.objects.exclude(id__in=consultas_hoje.values('id'))
+    return render(request, 'consultas_medico.html', {"consultas_hoje": consultas_hoje, "consultas_restantes": consultas_restantes})
