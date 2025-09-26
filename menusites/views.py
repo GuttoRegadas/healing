@@ -5,4 +5,5 @@ from django.http import HttpResponse
 
 
 def menu(request):
-    return HttpResponse('Olá mundo!')
+    if request.method == "GET":
+        return render(request, 'menu.html')
